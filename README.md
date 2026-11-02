@@ -45,7 +45,7 @@ I am a Computer Science Engineering graduate interested in software development,
 
 ## 🔗 Connect With Me
 
-- **LinkedIn:** [Add your LinkedIn profile URL](https://www.linkedin.com/)
+- **LinkedIn:** [Add your LinkedIn profile URL]([https://www.linkedin.com/](https://www.linkedin.com/in/aditya-hegde02/))
 - **GitHub:** [Aditya-Hegde02](https://github.com/Aditya-Hegde02)
 
 ---
